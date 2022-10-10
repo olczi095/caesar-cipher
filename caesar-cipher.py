@@ -4,7 +4,7 @@ class CaesarCipher:
 
     Args:
         alphabet (str): The alphabet taken from the user.
-        shift (int): The shift chosen by the user to encryption alphabet.
+        shift (int): The shift chosen by the user to encrypt or decrypt alphabet.
     """
     def __init__(self, alphabet, shift):
         self.alphabet = alphabet
