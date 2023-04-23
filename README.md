@@ -11,7 +11,11 @@ This class was created as a part of the "100+ Exercises - Advanced Python Progra
 ```bash
   pip3 install -r requirements.txt
 ```
-3. Run the game
+3. Change the directory
+```bash
+  cd caesar-cipher
+```
+4. Run the game
 ```bash
   python3 game.py
 ```
