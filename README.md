@@ -5,11 +5,15 @@ This class was created as a part of the "100+ Exercises - Advanced Python Progra
 ## Installation
 1. Clone the repository
 ```bash
-  git clone https://github.com/olczi095/snake-game.git](https://github.com/olczi095/caesar-cipher.git)
+  git clone https://github.com/olczi095/caesar-cipher.git
 ```
 2. Change the directory
 ```bash
   cd caesar-cipher
+```
+3. Run the program
+```bash
+  python caesar-cipher.py
 ```
 ## Features
 User can choose the alphabet and the shift for program and then:
